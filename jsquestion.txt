@@ -78,3 +78,16 @@ IIFEs are functions that are executed immediately after they are defined. They a
 
 12.WHAT IS HOISTING IN JAVASCRIPT?
 --Hoisting in javascript behavior where the variable and function and moved to the top of their containing scope during the compilation phase.
+
+
+13.WHAT IS ERROR HANDLING IN JAVASCRIPT ?
+
+--Error handling in JavaScript involves managing and responding to errors that occur during the execution of a program. 
+try...catch statement: This is the primary mechanism for handling exceptions in JavaScript. You use a try block to enclose the code that might throw an exception, and a catch block to handle the exception if one occurs.
+
+14.WHAT IS SET OBJECT ?
+--In JavaScript, the "Set" object is a collection of unique values,meaning that each value can occur only once within the set. It provides methods for adding, removing, and checking for the presence of elements. The Set object was introduced in ECMAScript 6 (ES6) and is part of the standard JavaScript language.
+
+
+15.WHAT IS MAP OBJECT ?
+--In JavaScript, the Map object is a data structure that allows you to store key-value pairs where both the keys and the values can be of any data type. Each key in a Map is unique, and the keys can be of any type, including primitive types (like strings or numbers) as well as object references or even functions.
