@@ -91,3 +91,29 @@ try...catch statement: This is the primary mechanism for handling exceptions in 
 
 15.WHAT IS MAP OBJECT ?
 --In JavaScript, the Map object is a data structure that allows you to store key-value pairs where both the keys and the values can be of any data type. Each key in a Map is unique, and the keys can be of any type, including primitive types (like strings or numbers) as well as object references or even functions.
+
+16.WHAT IS THE DIFFERENCE BETWEEN REST AND SPREAD OPERATOR ?
+*SPREAD
+--Used to spread the elements of an iterable (like an array) into individual elements.
+Can be used to create a shallow copy of an array or to concatenate arrays.
+*REST
+--Used to represent an indefinite number of arguments as an array within a function parameter.
+It gathers the remaining parameters into an array.
+
+17. WHAT IS "THIS" KEYWORD IN JAVASCRIPT
+--In JavaScript, this keyword refers to the current context or scope within which code is executing. Its value is determined by how a function is called, and it can dynamically change depending on the invocation context.
+
+18.WHAT IS SETTIMEOUT() ?
+--In JavaScript, setTimeout() is a built-in function that is used to schedule the execution of a function after a specified delay, measured in milliseconds. It allows you to create a timer that triggers the execution of code after a certain amount of time has passed.
+--syntax :
+setTimeout(function, delay, param1, param2, ...);
+
+
+19.WHAT IS SET INTERVEL() ?
+--In JavaScript, setInterval() is a built-in function that is used to repeatedly execute a function or code snippet at a specified interval. It's similar to setTimeout(), but instead of executing the function once after a delay, setInterval() repeatedly executes the specified function at the specified time intervals until it is cleared.
+
+20.WHAT IS "THIS" KEYWORD ?
+--In JavaScript, this keyword refers to the current context or scope within which code is executing. Its value is determined by how a function is called, and it can dynamically change depending on the invocation context.
+
+21.WHAT IS PROMISE ?
+--
